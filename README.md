@@ -1,6 +1,6 @@
 # Supply Chain & Commodity Price Monitor: Geopolitical Risk & Cost Shock Simulator for Industrial SMEs
 
-**Quick Links:** 📊 [Live Tableau Public Dashboard](https://public.tableau.com/app/profile/marco.iaccarino/viz/Commodities_17872404150190/Dashboard1) | 🐍 [Python Data Ingestion Pipeline](#)
+**Quick Links:** 📊 [Live Tableau Public Dashboard](https://public.tableau.com/app/profile/marco.iaccarino/viz/Commodities_17872404150190/Dashboard1)
 
 > **⚠️ Data Disclaimer:** Il presente progetto utilizza un dataset sintetico/simulato (*mock data*) per fini didattici e di modellazione BI. I valori storici e le proiezioni temporali (2024–2026) non riflettono quotazioni spot ufficiali di borsa (es. LME, ICE) in tempo reale, ma convalidano la logica contabile e l'interattività dell'Executive Dashboard.
 
