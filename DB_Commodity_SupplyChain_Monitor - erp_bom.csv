@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Sector,Base_Price_EUR,Direct_Labor_EUR,Other_Direct_Costs_EUR,Copper_kg,Alum_kg,Gas_MWh,Transport_L
+PRD-001,Motore Elettrico Trifase,Elettromeccanica,450.0,65.0,25.0,8.5,12.0,0.08,6.0
+PRD-002,Pompa Idraulica Alta Pressione,Oleodinamica,620.0,95.0,40.0,3.2,22.5,0.12,8.5
+PRD-003,Scambiatore Termico Industriale,Climatizzazione & Termica,880.0,130.0,55.0,18.0,30.0,0.2,12.0
+PRD-004,Valvola Elettro-Attuata Inox,Automazione Flussi,290.0,45.0,18.0,4.5,6.0,0.05,4.0
+PRD-005,Quadro Elettrico di Controllo PLC,Automazione Industriale,1250.0,210.0,85.0,14.0,8.5,0.04,9.0
