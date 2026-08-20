@@ -65,7 +65,8 @@ I team di Controllo di Gestione, Procurement e Direzione Generale delle PMI indu
 
 La dashboard integra il monitoraggio corporate con la procurement intelligence su timeline sincronizzata e layout pixel-perfect:
 
-![Executive Dashboard Preview](screenshots/dashboard_preview.png)
+<img width="1523" height="984" alt="Screenshot 2026-08-20 174636" src="https://github.com/user-attachments/assets/958c0ae3-dedb-49c4-baa8-89df3b2ec6b3" />
+
 
 * **Layer 1 (Top View) - Ricavi Mensili vs Marginalità Operativa:**
   * Area chart per il volume dei ricavi lordi (*Gross Revenue €*) combinato con linea di trend per il *Margine EBITDA %*.
@@ -82,7 +83,8 @@ La dashboard integra il monitoraggio corporate con la procurement intelligence s
 
 ### 4. Cross-Tab Data QA Validation
 
-![QA Validation Table](screenshots/qa_validation.png)
+<img width="864" height="709" alt="Screenshot 2026-08-20 174649" src="https://github.com/user-attachments/assets/89c9a959-ead0-424d-ae90-ee644f6ad201" />
+
 
 Tabella di quadratura per il controllo di gestione: convalida la correttezza al centesimo della formula $\text{Gross Revenue} - \text{Costi Operativi} = \text{EBITDA}$ e la corretta propagazione dei prezzi spot parametrici lungo tutta la serie storica (2024–2026).
 
